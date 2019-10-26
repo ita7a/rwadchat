@@ -1,6 +1,6 @@
-$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
+$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="/sico/1572132787207.gif" width="70%" style="">`)
 
-$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="/sico/1572132787207.gif" class="fl" style="margin-Right: 2px; width: 70px;">');
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-Right: 2px; width: 70px;">');
 
 $(`<img src="/sico/1571434199503.gif" class="fr" style="width:100%;margin-top: 1px;">
 <a href="#" style="border-radius: 15px 0px;width:110px;margin:3px;" class="fl mini  fa fa-star-half-o btn btn-default">⠀الإشتراكات⠀</a>
